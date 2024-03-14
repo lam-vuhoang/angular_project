@@ -1,0 +1,13 @@
+.myBorder {
+    border: solid #808080;
+    border-radius: 1vh;
+    margin: 1vh;
+    padding: 0.5vh;
+}
+
+.myLogo {
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
